@@ -10,7 +10,7 @@
 
                 <div class="col-12 mb-3 mb-md-0 col-md-4 order-1 order-md-2 text-center">
                     <div class="site-logo">
-                        <a href="{{route('homepage')}}" class="js-logo-clone">{{config('app.name')}}</a>
+                        <a href="{{route('homepage')}}" class="js-logo-clone">Mestquik - Secondhand</a>
                     </div>
                 </div>
 
