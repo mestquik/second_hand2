@@ -54,5 +54,4 @@ Route::group(['middleware'=>'categories'],function (){
 
 
 
-
 require __DIR__.'/auth.php';
