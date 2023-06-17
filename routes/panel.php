@@ -13,7 +13,6 @@ use App\Http\Controllers\backend\LogoController;
 Route::group(['prefix' => 'panel',  'middleware' => 'auth','sitelogo'], function()
 {
 
-
     Route::get('/',[DashboardController::class,'index'])->name('panel');
 
     //SLİDER YÖNETİMİ
